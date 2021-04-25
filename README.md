@@ -6,18 +6,13 @@ Tem como objetivo, avaliar autodesenvolvimento e conhecimentos já adquiridos no
 <h1 align="center">
     <a href="https://user-images.githubusercontent.com/41654616/116012119-01c71580-a5ff-11eb-989a-9f962540f9ba.png">🔗 TELA DO JOGO</a>
 </h1>
-<p align="center">🚀 DONKEYPYKONG</p>
-
-![Badge](https://www.linkedin.com/in/adriellyfxcosta/)
 
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre]
-   Desenvolvido por Adrielly Costa, Juliana Félix e Stephanie Tabosa
-   * [Instalação]
-   pip install pygame
-   * [Tecnologias](#Python - Pygame)
+   * [Sobre]: Desenvolvido por Adrielly Costa, Juliana Félix e Stephanie Tabosa
+   * [Instalação]: pip install pygame
+   * [Tecnologias]: Python e Pygame
 <!--te-->
 
 <h4 align="center"> 
