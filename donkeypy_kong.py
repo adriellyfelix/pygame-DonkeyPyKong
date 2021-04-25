@@ -1,4 +1,3 @@
-
 # importar módulos
 import pygame as py
 import random
